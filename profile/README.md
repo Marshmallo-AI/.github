@@ -1,23 +1,18 @@
-**Building the infra that gives agents experience.**
+<div align="center">
 
-We build infrastructure for agent builders: trajectory capture, reward signals, and learning systems that make agents more reliable over time.
+# Marlo
 
-## What We Build
-| Area | What it gives you |
-| --- | --- |
-| Trajectory capture | Full event trails for LLM calls, tool calls, and decisions. |
-| Reward signals | Task‑level evaluation with clear rationales. |
-| Learning loops | Shadow and active learnings to improve behavior safely. |
-| Simulation + reports | Run different models on the same trajectory and compare results. |
+### Give your AI agents work experience.
 
-## For Agent Builders
-Marlo is for teams that already run agents and want:
-- Better reliability and fewer failures
-- Clear evidence for debugging and evaluation
-- Learning that improves over time without changing your agent flow
+Marlo captures agent behavior, evaluates performance, and feeds lessons back into the system. <br/>
+It turns transient failures into permanent improvements.
 
-## Repositories
-Pinned repo show the docs how to use the SDK.
+[**Documentation**](https://docs.marshmallo.ai) · [**Website**](https://marshmallo.ai) · [**Contact**](mailto:hello@marshmallo.ai)
 
-## Contact
-Reach out if you want early access, product support, or integration help at hello@marshmallo.ai
+<br />
+
+| **Trajectory Capture** | **Reward Engine** | **Active Learning** |
+| :---: | :---: | :---: |
+| Record every step, tool call, <br/> and reasoning trace. | Automatically score sessions <br/> with LLM judges. | Inject past experiences <br/> to prevent repeat errors. |
+
+</div>
