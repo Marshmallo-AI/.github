@@ -2,17 +2,16 @@
 
 # Marlo
 
-### Give your AI agents work experience.
+### Agents you can consistently trust
 
-Marlo captures agent behavior, evaluates performance, and feeds lessons back into the system. <br/>
-It turns transient failures into permanent improvements.
+Marlo captures your agent's behaviour and thinking, evaluates its performance, and turns every run into a learning that ensures your agent gets smarter over time. <br/>
 
 [**Documentation**](https://docs.marshmallo.ai) · [**Website**](https://marshmallo.ai) · [**Contact**](mailto:hello@marshmallo.ai)
 
 <br />
 
-| **Trajectory Capture** | **Reward Engine** | **Active Learning** |
+| **Agent Observability** | **Reward System** | **Learning System** |
 | :---: | :---: | :---: |
-| Record every step, tool call, <br/> and reasoning trace. | Automatically score sessions <br/> with LLM judges. | Inject past experiences <br/> to prevent repeat errors. |
+See every step, tool call, reasoning and action of your agent. <br/> | Assess and score every agent task <br/> using LLM judges. | Generate learnings that automtically deploy in your agent to improve performance. <br/>|
 
 </div>
