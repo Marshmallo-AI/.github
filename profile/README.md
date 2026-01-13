@@ -10,7 +10,7 @@ Marlo captures your agent's behaviour, thinking, evaluates its performance, and 
 
 <br />
 
-| **Observability** | **Reward** | **Learn** |
+| **Observe** | **Reward** | **Learn** |
 | :---: | :---: | :---: |
 Capture every step, tool call, <br/> reasoning and action of your agent. <br/> | Assess and score each agent task <br/> using LLM judges. | Generate learnings that deploy <br/>  in your agent, improving its performance. <br/>|
 
